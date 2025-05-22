@@ -3,9 +3,6 @@ The task is to build a data pipeline to populate the user_behavior_metric table.
 dashboard software, etc. It is built from user_purchase, an OLTP table with user purchase information and movie_review.csv, data sent every day by an external data vendor.
 ![Project Table](https://github.com/Alero-Awani/Batch-data-engineering-project/blob/master/images/de_proj_obj.png?raw=true)
 
-# REFERENCE
-https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/
-
 # Architecture
 ![Pipeline Architecture](https://github.com/Alero-Awani/Batch-data-engineering-project/blob/master/images/de_proj_design.png?raw=true)
 
